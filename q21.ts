@@ -1,0 +1,9 @@
+// 21. They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
+
+let gym={
+    propertier:`Ali`,
+    location:`Karachi`,
+    area:`5000`
+
+}
+console.log(gym)
